@@ -1,0 +1,345 @@
+body{
+    margin: 0px;
+}
+#img1{
+    width: 31px;
+    height: 36px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#img2{
+    width: 34%;
+    height: 96.5vh;
+}
+#img3{
+    float: left;
+    width: 33%;
+    height: 96.5vh;
+}
+#img3:hover{
+    cursor: pointer;
+}
+#img4{
+    float: left;
+    width: 33%;
+    height: 96.5vh;
+}
+#img5{
+    width: 31px;
+    height: 36px;
+    padding-left: 1360px;
+    padding-top: 565px;
+}
+#img6{
+    width: 37px;
+    height: 39px;
+    padding-left: 1425px;
+    padding-top: -106px;
+    margin-top: -464px;
+}
+.d1{
+    background-color:rgb(42, 42, 42);
+    width: 100%;
+    height: 52px;
+    
+}
+.d2{
+    background-color:rgb(42, 42, 42);
+    width: 100%;
+    height: 96.5vh;
+    
+}
+.d3{
+    background-color:rgb(42, 42, 42);
+    width: 100%;
+    height: 634px;
+}
+.d4{
+    background-color:rgb(42, 42, 42);
+    width: 100%;
+    height: 200px;
+}
+#t1{
+    padding-left: 75px;
+    padding-top: -167px;
+    margin-top: -28px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+    
+    
+}
+
+#t2{
+    padding-left: 144px;
+    padding-top: -167px;
+    margin-top: -23px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+}
+
+
+#t3{
+    padding-left: 217px;
+    padding-top: -167px;
+    margin-top: -23px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+}    
+
+#t4{
+    padding-left: 280px;
+    padding-top: -167px;
+    margin-top: -23px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+}
+#t5{
+    padding-left: 347px;
+    padding-top: -167px;
+    margin-top: -23px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+}
+
+
+#t6{
+    padding-left: 468px;
+    padding-top: -167px;
+    margin-top: -42px;
+    font-size: 34px;
+    color: rgb(204, 204, 204);
+    
+    letter-spacing: 0.99px;
+}
+
+#t7{
+    padding-left: 500px;
+    padding-top: -167px;
+    margin-top: -56px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+    
+}
+#t8{
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    text-align: center;
+    padding-top: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+#t9{
+    padding-left: 1286px;
+    padding-top: -167px;
+    margin-top: -26px;
+    font-size: 11px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 0.99px;
+}
+#t10{
+    padding-left: 100px;
+    padding-top: -167px;
+    margin-top: -480px;
+    font-size: 13px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 3.99px;
+}
+#t11{
+    padding-left: 100px;
+    padding-top: -167px;
+    margin-top: 60px;
+    font-size: 13px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    letter-spacing: 3.99px;
+}
+#t12{
+    color: rgb(204, 204, 204);
+    font-size: 13px;
+    margin-top: 52px;
+    padding-left: 100px;
+    font-weight: bold;
+    line-height: 22px;
+    letter-spacing: 0.2px;
+}
+#t13{
+    color: rgb(204, 204, 204);
+    margin-top: 434px;
+    margin-left: 0px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+#t14{
+    color: rgb(204, 204, 204);
+    margin-top: -31px;
+    margin-left: 141px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+#t15{
+    color: rgb(204, 204, 204);
+    margin-top: -30px;
+    margin-left: 259px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+#t16{
+    color: rgb(204, 204, 204);
+    margin-top: -29px;
+    margin-left: 411px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+#t17{
+    color: rgb(204, 204, 204);
+    margin-top: -29px;
+    margin-left: 411px;
+    font-size: 12px;
+    letter-spacing: 3.2px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+
+}
+#t18{
+    color: white;
+    font-family: Brutal_Bold,sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#hr1{
+    margin-top: 54px;
+    padding-left: 83px;
+    margin-left: 99px;
+    border: -1px;
+    margin-right: 99px;
+    border-color: rgb(84, 82, 82);
+}
+.icon1{
+    padding-left: 1212px;
+    margin-top: -921px;
+    padding-top: -164px;
+    color: rgb(239, 233, 233);
+}
+.icon2{
+    padding-left: 1255px;
+    margin-top: -921px;
+    padding-top: -164px;
+    color: rgb(239, 233, 233);
+    size: 10px;
+}
+.s1{
+    float: left;
+    background-color: rgb(0, 120, 242);
+    width: 10%;
+    height: 52px;
+    margin-left: 1382px;
+    margin-top: -51px;
+}
+.s2{
+    margin-top: -18px;
+}
+.s3{
+    margin-top: -20px;
+}
+.s4{
+    color: rgb(204, 204, 204);
+    margin-top: 21px;
+    margin-left: 100px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s5{
+    color: rgb(204, 204, 204);
+    margin-top: -121px;
+    margin-left: 292px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s6{
+    color: rgb(204, 204, 204);
+    margin-top: -93px;
+    margin-left: 414px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s7{
+    color: rgb(204, 204, 204);
+    margin-top: 28px;
+    margin-left: 100px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s8{
+    color: rgb(204, 204, 204);
+    margin-top: -121px;
+    margin-left: 231px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s9{
+    color: rgb(204, 204, 204);
+    margin-top: -546px;
+    margin-left: 102px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.s10{
+    margin-top: -648px;
+    margin-left: 907px;
+}
+.s11{
+    margin-top: -93px;
+    margin-left: 834px;
+
+}
+.s12{
+    margin-top: -17px;
+    margin-left: -17px;
+
+}
+.s13{
+    margin-top: -633px;
+    margin-left: 98px;
+    
+}
+.s14{
+    margin-top: -33px;
+    margin-left: 143px;
+    
+}
+.s15{
+    margin-top: -32px;
+    margin-left: 196px;
+    
+}
+
+.arrow{
+    margin-top: 62px;
+    margin-left: 284px;
+    
+}
+#i1{
+    color:rgb(204, 204, 204);
+}
+#i2{
+    color:rgb(204, 204, 204);
+}
+#i3{
+   color:rgb(204, 204, 204)
+}
